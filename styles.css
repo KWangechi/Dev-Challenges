@@ -1,0 +1,121 @@
+.page-title {
+  position: absolute;
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 700, bold;
+  line-height: 25.18px;
+  letter-spacing: -0.08rem;
+  text-transform: uppercase;
+
+  width: 233px;
+  height: 25px;
+  top: 40px;
+  left: 77px;
+  color: #333333;
+}
+/* .page-image-div{
+    
+} */
+.page-image {
+  width: 510px;
+  height: 447px;
+  top: 170px;
+  left: 77px;
+  position: absolute;
+}
+
+.page-content {
+  position: absolute;
+  width: 586px;
+  height: 190px;
+  top: 160px;
+  left: 735px;
+
+  font-family: 'Space Mono';
+  font-weight: 700, bold;
+  font-style: normal;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035rem;
+  color: #333333;
+}
+
+.page-footer {
+  width: 381px;
+  height: 108px;
+  top: 420px;
+  left: 736px;
+
+  font-family: 'Space Mono';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: -0.035rem;
+  color: #4f4f4f;
+  position: absolute;
+}
+
+.rectangle-button {
+  position: absolute;
+  width: 216px;
+  height: 68px;
+  top: 580px;
+  left: 735px;
+  background: #333333;
+
+  
+}
+.button-text{
+  position: absolute;
+  width: 150px;
+  height: 21px;
+  top: 590px;
+  left: 775px;
+  
+
+  font-family: 'Space Mono';
+  font-weight: 700;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035rem;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+.footer-text-created{
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  top: 1039px;
+  left: 577px;
+  
+
+  font-family: 'Montserrat';
+  font-weight: 700, bold;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: -0.035rem;
+  color: #BDBDBD;
+}
+/* .footer-text-dev{
+  position: absolute;
+  width: 287px;
+  height: 17px;
+  top: 1039px;
+  left: 577px;
+  
+
+  font-family: 'Montserrat';
+  font-weight: 500, medium;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 17px;
+  align-content: center;
+  letter-spacing: -0.035rem;
+  color: #ffffff;
+}
+ */
