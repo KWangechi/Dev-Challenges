@@ -7,9 +7,9 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <!-- <a href="https://{your-demo-link.your-domain}">
       Demo
-    </a>
+    </a> -->
     <span> | </span>
     <a href="https://{your-url-to-the-solution}">
       Solution
@@ -39,7 +39,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+<!-- - Where can I see your demo? -->
 - Feels good to be learning using already made designs and new CSS Properties
 - One can transform a text from one state to another using text-transform property in CSS
 - Your wisdom? :)
